@@ -24,6 +24,7 @@
 ### 📊 GitHub Stats
 ![Vlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladGBRL&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladGBRL&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=VladGBRL&theme=tokyonight)
 
 ---
 
