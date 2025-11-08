@@ -16,7 +16,7 @@
 
 ### 🚀 Featured Projects
 - 🏦 [TradingApp](https://github.com/VladGBRL/TradingApp) — A modular trading platform using .NET 8 & Angular  
-- 🤖 [PizzaRestaurant](https://github.com/VladGBRL/RobotVsHumanImageClassifier) — A deep learning app using an CNN architecture which classifies humans and robots. Project made with my team for a Hackathon project.
+- 🤖 [RobotsVsHumansImageClassifier](https://github.com/VladGBRL/RobotVsHumanImageClassifier) — A deep learning app using an CNN architecture which classifies humans and robots. Project made with my team for a Hackathon project.
 - 🏦 [HomeownersAssociation](https://github.com/VladGBRL/Homeowners-Association). - An app for the association of homeowners where you can pay bills using Stripe.
 
 ---
